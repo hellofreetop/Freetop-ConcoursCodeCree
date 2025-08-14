@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "887959211247",
+    "project_id": "freetop-chat",
+    "storage_bucket": "freetop-chat.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:887959211247:android:5d70b0df4791e183095f1a",
+        "android_client_info": {
+          "package_name": "com.app.freetop"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDc0JLIm-RtXSXoemb-yb__Fa-tADv1MZ4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
