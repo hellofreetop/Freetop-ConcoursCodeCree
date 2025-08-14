@@ -7,7 +7,14 @@ Conception d'une application de mise en relation entre clients et artisans
 - Messagerie instantanée
 - Création de profils professionnels lier à un compte client
 - Marketplace pour artisans avec messagerie integrée
--   
+
+## Langage de programmation
+- Typescript
+- Javascript
+
+## Backend
+- Supabase
+- Firebase
 
 ## 🛠 Installation  
 1. Cloner le repo :  
