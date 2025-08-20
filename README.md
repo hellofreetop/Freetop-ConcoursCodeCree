@@ -27,4 +27,4 @@ Conception d'une application de mise en relation entre clients et artisans
 7. Mettre le smartphone et le PC dans un même réseau
 8. Dans le terminal exécuter npx expo start pour lancer l'application
 
-## Lien vers l'APK  du prototype freetop : https://drive.google.com/drive/folders/1bf9i5hyJboeWlQJYWGqv7eaPS3BQqt79?usp=drive_link
+## Lien vers l'APK  du prototype freetop : https://drive.google.com/drive/folders/1bf9i5hyJboeWlQJYWGqv7eaPS3BQqt79?usp=sharing
